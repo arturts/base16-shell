@@ -5,16 +5,16 @@
 
 color00="28/29/36" # Base 00 - Black
 color01="ea/51/b2" # Base 08 - Red
-color02="eb/ff/87" # Base 0B - Green
-color03="00/f7/69" # Base 0A - Yellow
+color02="00/f7/69" # Base 0A - Green
+color03="eb/ff/87" # Base 0B - Yellow
 color04="62/d6/e8" # Base 0D - Blue
 color05="b4/5b/cf" # Base 0E - Magenta
 color06="a1/ef/e4" # Base 0C - Cyan
 color07="e9/e9/f4" # Base 05 - White
 color08="62/64/83" # Base 03 - Bright Black
 color09=$color01 # Base 08 - Bright Red
-color10=$color02 # Base 0B - Bright Green
-color11=$color03 # Base 0A - Bright Yellow
+color10=$color02 # Base 0A - Bright Green
+color11=$color03 # Base 0B - Bright Yellow
 color12=$color04 # Base 0D - Bright Blue
 color13=$color05 # Base 0E - Bright Magenta
 color14=$color06 # Base 0C - Bright Cyan
